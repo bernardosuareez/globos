@@ -19,7 +19,7 @@ class Globo
   {
       ellipse(x,y,100,100);
   }
-  
+   
 }
 
 ArrayList<Globo> globos;
