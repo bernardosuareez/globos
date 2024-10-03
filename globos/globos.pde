@@ -39,6 +39,7 @@ void draw()
     globos.get(i).update();
     globos.get(i).dibujate();
   }
+  System.out.printf("Hola Ber");
 }
 
 void mousePressed()
