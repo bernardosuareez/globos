@@ -21,6 +21,7 @@ class Globo
       ellipse(x+200,y,200,200);
       fill(0);  //negro
       ellipse(x,y, 50, 50);
+      ellipse(x+200,y, 50, 50);
       fill(255);
   }
    
